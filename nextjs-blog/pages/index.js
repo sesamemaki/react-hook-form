@@ -118,7 +118,7 @@ export default function Home() {
         </div>
       </main>
 
-      {/* <style jsx>{`
+      <style jsx>{`
         main {
           
           flex: 1;
@@ -149,7 +149,7 @@ export default function Home() {
         * {
           box-sizing: border-box;
         }
-      `}</style> */}
+      `}</style>
     </div>
   );
 }
